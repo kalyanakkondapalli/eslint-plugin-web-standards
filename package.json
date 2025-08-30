@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/eslint-plugin-web-standards.git"
+    "url": "https://github.com/kalyanakkondapalli/eslint-plugin-web-standards.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/eslint-plugin-web-standards/issues"
+    "url": "https://github.com/kalyanakkondapalli/eslint-plugin-web-standards/issues"
   },
-  "homepage": "https://github.com/yourusername/eslint-plugin-web-standards#readme",
+  "homepage": "https://github.com/kalyanakkondapalli/eslint-plugin-web-standards#readme",
   "peerDependencies": {
     "eslint": "^8.0.0"
   }
