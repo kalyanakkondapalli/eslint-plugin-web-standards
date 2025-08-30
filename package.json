@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-web-standards",
+  "version": "1.0.1",
+  "description": "An ESLint plugin to enforce modern web standards including accessibility, performance, semantic HTML, and SEO best practices.",
+  "main": "lib/index.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "web standards",
+    "accessibility",
+    "seo",
+    "performance",
+    "semantic html",
+    "security",
+    "frontend"
+  ],
+  "author": "Kalyana Krishna Kondapalli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/eslint-plugin-web-standards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/eslint-plugin-web-standards/issues"
+  },
+  "homepage": "https://github.com/yourusername/eslint-plugin-web-standards#readme",
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
